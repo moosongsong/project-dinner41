@@ -1,0 +1,164 @@
+/*img:hover{*/
+/*    cursor: pointer;*/
+/*}*/
+
+div.contents {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 800px;
+	height: 1280px;
+	scroll: ;
+}
+
+.pos:hover{
+    cursor: pointer;
+}
+
+.btn_light_green:hover,.btn_light_green:active, .btn_light_green:visited{
+    background-color: #CFE3A1 !important;
+    color: #6F923E !important;
+    border-color: #CFE3A1 !important;
+}
+
+.btn-outline-success{
+    background-color: white !important;
+    color: #6F923E !important;
+    border-color: #6F923E !important;
+}
+
+.btn-outline-success:hover,.btn-outline-success:active, .btn-outline-success:visited{
+    background-color: #CFE3A1 !important;
+    color: #6F923E !important;
+    border-color: #CFE3A1 !important;
+}
+
+.btn_disabled{
+    background-color: white !important;
+    color: #CFE3A1 !important;
+    border-color: #CFE3A1 !important;
+}
+
+.btn-success{
+    background-color: #CFE3A1 !important;
+    color: black !important;
+    border-color: #CFE3A1 !important;
+}
+.btn-success:hover,.btn-success:active, .btn-success:visited{
+    background-color: #6F923E !important;
+    color: white !important;
+    border-color: #6F923E !important;
+}
+
+.light_green{
+    background-color: #CFE3A1 !important;
+}
+
+.trim{
+    padding: 0;
+}
+
+.last_block{
+    height: 50pt;
+}
+
+.two_button{
+    width: 49%;
+}
+
+.three_button{
+    margin: 0 !important;
+    width: 33%;
+}
+
+.three_button_center{
+    width: 33%;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+.up_down_center{
+    margin: auto;
+}
+
+.left_input{
+    width: 70%;
+    float: left;
+}
+
+.right_input{
+    margin-left: 1%;
+    width: 29%;
+}
+
+.margin_up{
+    margin-top: 3pt;
+}
+
+.phone_one_two{
+    width: 30% ;
+    float: left;
+}
+
+.phone_three{
+    width: 30% ;
+}
+
+.margin_first{
+    margin-top: 30pt;
+}
+
+.category{
+    margin: 10%;
+    width: 80%;
+}
+
+.category_label:hover{
+    cursor: pointer;
+}
+
+.map_button{
+    width: inherit;
+    padding: 5pt;
+}
+
+.map_button:hover{
+    cursor: pointer;
+}
+
+.nav_five{
+    width: 20%;
+}
+
+.nav_two{
+    width: 50%;
+}
+
+.nav_three{
+    width: 33%;
+}
+
+.cart{
+    width: 20pt;
+}
+
+.cart:hover{
+    cursor:pointer;
+}
+
+.home{
+    width: 25pt;
+}
+
+.home:hover{
+    cursor:pointer;
+}
+
+.img-title{
+    width: 18%;
+    margin-bottom: 3pt;
+}
+
+a:link { color: black; text-decoration: none;}
+a:visited { color: black; text-decoration: none;}
+a:hover { color: black; text-decoration: none;}
