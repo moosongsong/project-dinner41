@@ -16,7 +16,7 @@
 ---
 
 ### 개요
-[서비스 주제 선정 동기](#1)
+[▶ 서비스 주제 선정 동기](#1)
 
 <details markdown="1">
 <summary>회원 관리 서비스</summary>
@@ -29,3 +29,9 @@
 
 <details markdown="1">
 </details>
+
+---
+
+<span id="1"></span>
+### 주제 선정 동기
+<p align="center"><img src="image/1.PNG" width=700></p>
