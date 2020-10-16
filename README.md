@@ -37,13 +37,25 @@
 
 ---
 <span id="1"></span>
-##프로젝트개요
+## 프로젝트개요
 <p align="center"><img src="image/0.PNG" width=700></p>
 
 <span id="1.1"></span>
-### 주제 선정 동기
+### 1. 주제 선정 동기
 <p align="center"><img src="image/1.PNG" width=700></p>
 <p align="center"><img src="image/2.PNG" width=700></p>
 
 ##### 벤치 마킹 사이트의 한계점
 <p align="center"><img src="image/3.PNG" width=700></p>
+
+<span id="1.2"></span>
+### 2. 제공 시스템 사양
+<p align="center"><img src="image/4.PNG" width=700></p>
+
+<span id="1.3"></span>
+### 3. 개발 환경 및 사용 기술
+<p align="center"><img src="image/5.PNG" width=700></p>
+
+---
+<span id="2"></span>
+## 서비스 설계
