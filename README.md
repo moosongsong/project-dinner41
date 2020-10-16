@@ -15,23 +15,35 @@
 
 ---
 
-### 개요
-[▶ 서비스 주제 선정 동기](#1)
+### 목차
 
 <details markdown="1">
-<summary>회원 관리 서비스</summary>
+<summary>프로젝트 개요</summary>
 
-[회원 관리 서비스](#2)<br/>
-    [1. 회원 가입](#2.1)<br/>
-    [2. 회원 정보 수정](#2.2)<br/>
-    [3. 회원 탈퇴](#2.3)
+[프로젝트 개요](#1)<br/>
+    [1. 주제 선정 동기](#1.1)<br/>
+    [2. 제공 시스템 사양](#1.2)<br/>
+    [3. 개발 환경 및 사용 기술](#1.3)
 </details>
 
 <details markdown="1">
+<summary>서비스 설계</summary>
+
+[서비스 설계](#2)<br/>
+    [1. 회원 이용 흐름](#2.1)<br/>
+    [2. DB 설계](#2.2)<br/>
+    [3. 개발 환경 및 사용 기술](#2.3)
 </details>
 
 ---
-
 <span id="1"></span>
+##프로젝트개요
+<p align="center"><img src="image/0.PNG" width=700></p>
+
+<span id="1.1"></span>
 ### 주제 선정 동기
 <p align="center"><img src="image/1.PNG" width=700></p>
+<p align="center"><img src="image/2.PNG" width=700></p>
+
+##### 벤치 마킹 사이트의 한계점
+<p align="center"><img src="image/3.PNG" width=700></p>
