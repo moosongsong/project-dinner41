@@ -59,3 +59,14 @@
 ---
 <span id="2"></span>
 ## 서비스 설계
+
+<span id="2.1"></span>
+### 1. 회원 이용 흐름
+##### 일반회원
+<p align="center"><img src="image/6.PNG" width=700></p>
+
+##### 점주회원
+<p align="center"><img src="image/7.PNG" width=700></p>
+
+<span id="2.2"></span>
+### 2. DB 설계
