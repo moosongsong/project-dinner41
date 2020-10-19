@@ -31,7 +31,7 @@
 
 [서비스 설계](#2)<br/>
     [1. 회원 이용 흐름](#2.1)<br/>
-    [2. DB 설계](#2.2)<br/>
+    [2. 설계 산출물](#2.2)<br/>
     [3. 개발 환경 및 사용 기술](#2.3)
 </details>
 
@@ -69,4 +69,12 @@
 <p align="center"><img src="image/7.PNG" width=700></p>
 
 <span id="2.2"></span>
-### 2. DB 설계
+### 2. 설계 산출물
+#### E-R Diagram
+<p align="center"><img src="image/ER_DINNER41.png" width=700></p>
+
+#### 논리 스키마
+<p align="center"><img src="image/12.png" width=700></p>
+
+#### Class Diagram
+<p align="center"><img src="image/13.png" width=700></p>
