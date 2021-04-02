@@ -118,3 +118,6 @@
 #### ✔ 매장 서비스 (점주/일반)
 <p align="center"><img src="image/매장서비스.png" style="width: 100%" alt="no pic"></p>
 <p align="center"><img src="image/매장관리기능1.png" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/매장관리기능2.png" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/매장관리클래스.png" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/매장검색시퀀스.png" style="width: 100%" alt="no pic"></p>
