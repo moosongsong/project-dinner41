@@ -45,7 +45,7 @@
 <p align="center"><img src="image/1.PNG" style="width: 100%" alt="no pic"></p>
 <p align="center"><img src="image/2.PNG" style="width: 100%" alt="no pic"></p>
 
-##### 벤치 마킹 사이트의 한계점
+### 벤치 마킹 사이트의 한계점
 <p align="center"><img src="image/3.PNG" style="width: 100%" alt="no pic"></p>
 
 <span id="1.2"></span>
@@ -103,6 +103,7 @@
 이메일로 임시 비밀번호 발급받기
 <p align="center"><img src="image/14.png" style="width: 100%" alt="no pic"></p>
 
+---
 
 ### ✔ 위치기반 검색 서비스
 #### 📍검색 기준위치 변경
@@ -114,6 +115,7 @@
 <p align="center"><img src="image/15.png" style="width: 100%" alt="no pic"></p>
 <p align="center"><img src="image/16.png" style="width: 100%" alt="no pic"></p>
 
+---
 
 ### ✔ 매장 서비스 (점주/일반)
 <img src="image/매장서비스.png" style="width: 100%" alt="no pic">
@@ -122,6 +124,7 @@
 <img src="image/매장관리클래스.png" style="width: 100%" alt="no pic">
 <img src="image/매장검색시퀀스.png" style="width: 100%" alt="no pic">
 
+---
 
 ### ✔ 메뉴 서비스 (점주/일반)
 <img src="image/메뉴서비스.png" style="width: 100%" alt="no pic">
@@ -130,3 +133,13 @@
 <img src="image/메뉴관리기능3.png" style="width: 100%" alt="no pic">
 <img src="image/메뉴관리클래스.png" style="width: 100%" alt="no pic">
 <img src="image/메뉴등록시퀀스.png" style="width: 100%" alt="no pic">
+
+---
+
+### ✔ 장바구니 주문 결제 서비스 (점주/일반)
+<img src="image/장바구니주문결제서비스.png" style="width: 100%" alt="no pic">
+<img src="image/장바구니기능.png" style="width: 100%" alt="no pic">
+<img src="image/장바구니클래스.png" style="width: 100%" alt="no pic">
+<img src="image/주문기능.png" style="width: 100%" alt="no pic">
+<img src="image/주문결제클래스.png" style="width: 100%" alt="no pic">
+<img src="image/주문관리시퀀스.png" style="width: 100%" alt="no pic">
