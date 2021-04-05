@@ -136,10 +136,26 @@
 
 ---
 
-### ✔ 장바구니 주문 결제 서비스 (점주/일반)
+### ✔ 장바구니 주문 결제 서비스 (일반)
 <img src="image/장바구니주문결제서비스.png" style="width: 100%" alt="no pic">
 <img src="image/장바구니기능.png" style="width: 100%" alt="no pic">
 <img src="image/장바구니클래스.png" style="width: 100%" alt="no pic">
 <img src="image/주문기능.png" style="width: 100%" alt="no pic">
 <img src="image/주문결제클래스.png" style="width: 100%" alt="no pic">
 <img src="image/주문관리시퀀스.png" style="width: 100%" alt="no pic">
+
+---
+
+### ✔ 리뷰 / 문의 / 관리자 서비스 
+<img src="image/리뷰문의관리자서비스.png" style="width: 100%" alt="no pic">
+<img src="image/리뷰기능.png" style="width: 100%" alt="no pic">
+<img src="image/리뷰클래스.png" style="width: 100%" alt="no pic">
+<img src="image/문의기능1.png" style="width: 100%" alt="no pic">
+<img src="image/문의기능2.png" style="width: 100%" alt="no pic">
+<img src="image/문의클래스.png" style="width: 100%" alt="no pic">
+<img src="image/문의시퀀스.png" style="width: 100%" alt="no pic">
+<img src="image/관리자기능.png" style="width: 100%" alt="no pic">
+<img src="image/관리자클래스.png" style="width: 100%" alt="no pic">
+
+---
+
