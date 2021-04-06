@@ -3,7 +3,7 @@
 
 1인의 만찬은 자영업자와 1인 가우 소비자들을 위한 마감 음식 패키징 서비스입니다.
 
-<p align="center"><img src="image/main.PNG" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/1인의만찬.png" style="width: 100%" alt="no pic"></p>
 
 ---
 
@@ -38,23 +38,23 @@
 ---
 <span id="1"></span>
 ## 프로젝트개요
-<p align="center"><img src="image/0.PNG" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/프로그램소개.png" style="width: 100%" alt="no pic"></p>
 
 <span id="1.1"></span>
 ## 1. 주제 선정 동기
-<p align="center"><img src="image/1.PNG" style="width: 100%" alt="no pic"></p>
-<p align="center"><img src="image/2.PNG" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/주제선정동기1.png" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/주제선정동기2.png" style="width: 100%" alt="no pic"></p>
 
 ### 벤치 마킹 사이트의 한계점
-<p align="center"><img src="image/3.PNG" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/벤치마킹사이트.png" style="width: 100%" alt="no pic"></p>
 
 <span id="1.2"></span>
 ## 2. 제공 시스템 사양
-<p align="center"><img src="image/4.PNG" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/제공시스템사양.png" style="width: 100%" alt="no pic"></p>
 
 <span id="1.3"></span>
 ## 3. 개발 환경 및 사용 기술
-<p align="center"><img src="image/5.PNG" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/개발환경.png" style="width: 100%" alt="no pic"></p>
 
 ---
 <span id="2"></span>
@@ -63,21 +63,21 @@
 <span id="2.1"></span>
 ## 1. 회원 이용 흐름
 ### 일반회원
-<p align="center"><img src="image/6.PNG" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/일반회원흐름.png" style="width: 100%" alt="no pic"></p>
 
 ### 점주회원
-<p align="center"><img src="image/7.PNG" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/점주회원.png" style="width: 100%" alt="no pic"></p>
 
 <span id="2.2"></span>
 ## 2. 설계 산출물
 ### E-R Diagram
-<p align="center"><img src="image/ER_DINNER41.png" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/ER_다이어그램.png" style="width: 100%" alt="no pic"></p>
 
 ### 논리 스키마
-<p align="center"><img src="image/12.png" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/DB스키마.png" style="width: 100%" alt="no pic"></p>
 
 ### Class Diagram
-<p align="center"><img src="image/13.png" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/전체클래스다이어그램.png" style="width: 100%" alt="no pic"></p>
 
 <span id="2.3"></span>
 ## 3. 서비스별 기능
@@ -101,7 +101,7 @@
 #### 📍비밀번호 찾기
 대상 : 일반회원, 점주회원
 이메일로 임시 비밀번호 발급받기
-<p align="center"><img src="image/14.png" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/회원관리클래스.png" style="width: 100%" alt="no pic"></p>
 
 ---
 
@@ -112,8 +112,8 @@
 ##### 📍카테고리별 지도보기
 대상 : 일반회원
 매장 카테고리별로 원하는 카테고리 선택후 매장 검색 가능
-<p align="center"><img src="image/15.png" style="width: 100%" alt="no pic"></p>
-<p align="center"><img src="image/16.png" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/위치기반검색클래스.png" style="width: 100%" alt="no pic"></p>
+<p align="center"><img src="image/위치기반시퀀스.png" style="width: 100%" alt="no pic"></p>
 
 ---
 
