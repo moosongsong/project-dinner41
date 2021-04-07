@@ -510,3 +510,4 @@ obj/
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/java,maven,git,svn,eclipse,intellij,webstorm,windows,android,androidstudio
+/.idea/
