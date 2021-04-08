@@ -46,15 +46,15 @@
 <img src="프로젝트_산출물/readmeImage/주제선정동기2.png" style="width: 100%" alt="no pic">
 
 ### 벤치 마킹 사이트의 한계점
-<p align="center"><img src="프로젝트_산출물/readmeImage/벤치마킹사이트.png" style="width: 100%" alt="no pic"></p>
+<img src="프로젝트_산출물/readmeImage/벤치마킹사이트.png" style="width: 100%" alt="no pic">
 
 <span id="1.2"></span>
 ## 2. 제공 시스템 사양
-<p align="center"><img src="프로젝트_산출물/readmeImage/제공시스템사양.png" style="width: 100%" alt="no pic"></p>
+<img src="프로젝트_산출물/readmeImage/제공시스템사양.png" style="width: 100%" alt="no pic">
 
 <span id="1.3"></span>
 ## 3. 개발 환경 및 사용 기술
-<p align="center"><img src="프로젝트_산출물/readmeImage/개발환경.png" style="width: 100%" alt="no pic"></p>
+<img src="프로젝트_산출물/readmeImage/개발환경.png" style="width: 100%" alt="no pic">
 
 ---
 <span id="2"></span>
@@ -63,21 +63,21 @@
 <span id="2.1"></span>
 ## 1. 회원 이용 흐름
 ### 일반회원
-<p align="center"><img src="프로젝트_산출물/readmeImage/일반회원흐름.png" style="width: 100%" alt="no pic"></p>
+<img src="프로젝트_산출물/readmeImage/일반회원흐름.png" style="width: 100%" alt="no pic">
 
 ### 점주회원
-<p align="center"><img src="프로젝트_산출물/readmeImage/점주회원.png" style="width: 100%" alt="no pic"></p>
+<img src="프로젝트_산출물/readmeImage/점주회원.png" style="width: 100%" alt="no pic">
 
 <span id="2.2"></span>
 ## 2. 설계 산출물
 ### E-R Diagram
-<p align="center"><img src="프로젝트_산출물/readmeImage/ER_다이어그램.png" style="width: 100%" alt="no pic"></p>
+<img src="프로젝트_산출물/readmeImage/ER_다이어그램.png" style="width: 100%" alt="no pic">
 
 ### 논리 스키마
-<p align="center"><img src="프로젝트_산출물/readmeImage/DB스키마.png" style="width: 100%" alt="no pic"></p>
+<img src="프로젝트_산출물/readmeImage/DB스키마.png" style="width: 100%" alt="no pic">
 
 ### Class Diagram
-<p align="center"><img src="프로젝트_산출물/readmeImage/전체클래스다이어그램.png" style="width: 100%" alt="no pic"></p>
+<img src="프로젝트_산출물/readmeImage/전체클래스다이어그램.png" style="width: 100%" alt="no pic">
 
 <span id="2.3"></span>
 ## 3. 서비스별 기능
@@ -101,7 +101,7 @@
 #### 📍비밀번호 찾기
 대상 : 일반회원, 점주회원
 이메일로 임시 비밀번호 발급받기
-<p align="center"><img src="프로젝트_산출물/readmeImage/회원관리클래스.png" style="width: 100%" alt="no pic"></p>
+<img src="프로젝트_산출물/readmeImage/회원관리클래스.png" style="width: 100%" alt="no pic">
 
 ---
 
@@ -112,8 +112,8 @@
 ##### 📍카테고리별 지도보기
 대상 : 일반회원
 매장 카테고리별로 원하는 카테고리 선택후 매장 검색 가능
-<p align="center"><img src="프로젝트_산출물/readmeImage/위치기반검색클래스.png" style="width: 100%" alt="no pic"></p>
-<p align="center"><img src="프로젝트_산출물/readmeImage/위치기반시퀀스.png" style="width: 100%" alt="no pic"></p>
+<img src="프로젝트_산출물/readmeImage/위치기반검색클래스.png" style="width: 100%" alt="no pic">
+<img src="프로젝트_산출물/readmeImage/위치기반시퀀스.png" style="width: 100%" alt="no pic">
 
 ---
 
