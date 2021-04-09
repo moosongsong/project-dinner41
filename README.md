@@ -12,10 +12,12 @@
 - 팀장 : 김주성([@KINGJUSUNG](https://github.com/KINGJUSUNG))
 - 부팀장 : 송무송([@moosongsong](https://github.com/moosongsong))
 - 팀원 : 문효원([@moon-hw](https://github.com/moon-hw)), 안희주([@ahjheeju129](https://github.com/ahjheeju129)), 조계철([@gyetol](https://github.com/gyetol))
+  
+<img src="프로젝트_산출물/readmeImage/팀원정보.png" style="width: 100%" alt="no pic">
 
 ---
 
-### 목차
+## 목차
 
 <details markdown="1">
 <summary>프로젝트 개요</summary>
@@ -23,7 +25,8 @@
 [프로젝트 개요](#1)<br/>
     [1. 주제 선정 동기](#1.1)<br/>
     [2. 제공 시스템 사양](#1.2)<br/>
-    [3. 개발 환경 및 사용 기술](#1.3)
+    [3. 개발 환경 및 사용 기술](#1.3)<br/>
+    [4. 프로젝트 진행 일정](#1.4)
 </details>
 
 <details markdown="1">
@@ -36,6 +39,7 @@
 </details>
 
 ---
+
 <span id="1"></span>
 ## 프로젝트개요
 <img src="프로젝트_산출물/readmeImage/프로그램소개.png" style="width: 100%" alt="no pic">
@@ -56,7 +60,13 @@
 ## 3. 개발 환경 및 사용 기술
 <img src="프로젝트_산출물/readmeImage/개발환경.png" style="width: 100%" alt="no pic">
 
+<span id="1.4"></span>
+## 4. 프로젝트 진행 일정
+<img src="프로젝트_산출물/readmeImage/프로젝트일정.png" style="width: 100%" alt="no pic">
+
+
 ---
+
 <span id="2"></span>
 ## 서비스 설계
 
